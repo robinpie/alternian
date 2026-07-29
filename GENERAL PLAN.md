@@ -45,6 +45,7 @@ If these are culturally untranslatable concepts, they probably were borrowed wit
 Visible derivational morphology:
  - kismesis → kismesissitude
  - moirail → moirallegiance
+ - matesprit → matespritship, auspistice → auspisticeship
  
 Working reconstruction: an abstract-noun / relationship-state suffix, tentatively -(is)itud or similar, meaning "the state/relationship of being X". The English forms are anglicized renderings of this suffix.
 
