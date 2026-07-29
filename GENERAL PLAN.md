@@ -61,6 +61,4 @@ Eridan's quirk could mark a phoneme in the /w/~/v/ space preserved in his (seadw
 
 Gamzee's AlTeRnAtInG cApS is prosodic, not segmental. Does Alternian have tone marking that he is trying to communicate in English?
 
-Kanaya's Capitalizing Every Word could be a formality register imported from Alternian?
-
 Compare with real-world Arabizi and individual-user idiosyncrasies.
