@@ -16,7 +16,8 @@ TBD: restructure this section once it is ironed out more
 ## Phonology
 
 - Trolls have human-like vocal anatomy, no need to get too crazy with the articulators. Keep the inventory human-speakable.
-- TBD: Synthesize evidence and come up with a phonology. Make sure to consider typing quirks as eivdence
+- TBD: Synthesize evidence and come up with a phonology. Make sure to consider typing quirks as evidence
+    - Alternian has rounding-based vowel harmony (1)
 
 ## Orthography
 
@@ -27,6 +28,10 @@ The (new, Hiveswap-style) Alternian Alphabet, but not just as the English cipher
 TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, or just a font for Latin script? The latter would be easier to type in but the former would be more faithful. Decide on this. Or just do both?
 
 # Evidence
+
+## Structured evidence
+
+1. Terezi's quirk marks the unrounded harmonic set. This converges nicely, we have SOV + agglutinative + suffixing + head-final + modifier-before-head, which is the Turkish/Finnish/Hungarian profile, and those languages have vowel harmony.
 
 TBD: Thoroughly analyze Homestuck texts for more evidence
 
