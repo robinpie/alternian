@@ -11,7 +11,7 @@ TBD: restructure this section once it is ironed out more
 - Alternian is modifier-before-head, and head-final in compounds.
 - SOV word order
 - Agglutinative, suffixing morphology
-    - Alternian prefers to coin vocabulary by German-esque native compounding rather than borrowing, which makes sense for a xenophobic empire that would not stoop to loaning words from conquered species
+    - Alternian prefers to coin vocabulary by German-esque native compounding rather than borrowing, which makes sense for a xenophobic empire that would not stoop to loaning words from conquered species (2)
     
 ## Phonology
 
@@ -33,15 +33,9 @@ TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, o
 
 1. Terezi's quirk marks the unrounded harmonic set. This converges nicely, we have SOV + agglutinative + suffixing + head-final + modifier-before-head, which is the Turkish/Finnish/Hungarian profile, and those languages have vowel harmony.
 
+2. Alternian English demonstrates several what-are-likely-to-be calques from Alternian, e.g. *thinkpan*, *respiteblock*, *load gaper*, *ablution trap*, *one wheel device*, *husktop*. This is evidence that Alternian is modifier-before-head, and head-final in compounds. This would pair nicely with SOV word order and agglutinative, suffixing morphology, so we take that as the case. https://mspaintadventures.fandom.com/wiki/Troll_language
+
 TBD: Thoroughly analyze Homestuck texts for more evidence
-
-## Calques
-
-Alternian English demonstrates several what-are-likely-to-be calques from Alternian, e.g. *thinkpan*, *respiteblock*, *load gaper*, *ablution trap*, *one wheel device*, *husktop*.
-
-This is evidence that Alternian is modifier-before-head, and head-final in compounds.
-
-This would pair nicely with SOV word order and agglutinative, suffixing morphology, so we take that as the case.
 
 ## Direct borrowings
 
