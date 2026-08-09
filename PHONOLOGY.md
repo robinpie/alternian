@@ -1,5 +1,7 @@
 Syllable structure: (C)(C)V(ː)(V)(C)(C)
 
+Rounding-based vowel harmony: no mixing rounded and unrounded vowels in a word. (/w/ is fine anywhere)
+
 ## Consonants
 
 | | Bilabial | Labiodental | Alveolar | Post-alveolar | Velar | Labial–velar | Glottal |
@@ -31,3 +33,22 @@ Syllable structure: (C)(C)V(ː)(V)(C)(C)
 | eɪ | closing, fronting |
 | ou | closing, backing |
 | iə | centering |
+
+Example words:
+
+əˈraːdiə məˈɡiːdeɪ
+ˈtævreɪs ˈnaitræm
+ˈsɑtləks ˈkæptər
+ˈkaːrkæt ˈvæntəs
+ˈnɛpətə ˈtleɪɑn
+kəˈnaiə ˈmaːriəm
+tərezi ˈpaireɪp
+ˈvrɪskə ˈsɜrːːːːkɛt
+ˈɡæmziː məˈkaːrə
+ˈɛrɪdæn æmˈpɑːrə
+ˈfɛvəri ˈpaiʃiz
+ˈɛkwiəs ˈzaːhaːk
+ˈmɑreɪtl
+ˈkɪzməsɪs
+ˈmætɛsprɪt
+ˈaːspɪstɪs
