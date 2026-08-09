@@ -1,3 +1,5 @@
+Syllable structure: (C)(C)V(ː)(V)(C)(C)
+
 ## Consonants
 
 | | Bilabial | Labiodental | Alveolar | Post-alveolar | Velar | Labial–velar | Glottal |
