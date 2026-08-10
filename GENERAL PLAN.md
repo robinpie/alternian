@@ -15,9 +15,10 @@ TBD: restructure this section once it is ironed out more
     
 ## Phonology
 
-- Trolls have human-like vocal anatomy, no need to get too crazy with the articulators. Keep the inventory human-speakable.
-- TBD: Synthesize evidence and come up with a phonology. Make sure to consider typing quirks as evidence
-    - Alternian has rounding-based vowel harmony (1)
+[PHONOLOGY.md]
+
+ - Alternian has rounding-based vowel harmony (1)
+ - Alternian doesn't have /w/. (3)
 
 ## Orthography
 
@@ -34,6 +35,8 @@ TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, o
 1. Terezi's quirk marks the unrounded harmonic set. This converges nicely, we have SOV + agglutinative + suffixing + head-final + modifier-before-head, which is the Turkish/Finnish/Hungarian profile, and those languages have vowel harmony.
 
 2. Alternian English demonstrates several what-are-likely-to-be calques from Alternian, e.g. *thinkpan*, *respiteblock*, *load gaper*, *ablution trap*, *one wheel device*, *husktop*. This is evidence that Alternian is modifier-before-head, and head-final in compounds. This would pair nicely with SOV word order and agglutinative, suffixing morphology, so we take that as the case. https://mspaintadventures.fandom.com/wiki/Troll_language
+
+3. Eridan doubles "w"s in English because Alternian doesn't have "w"s and Eridan is [hypercorrecting](https://en.wikipedia.org/wiki/Hypercorrection) given that he is an insecure-ass fancy aristocrat. (The aristocracy tends to speak hypercorrect English: "refrigerator", "toilet", etc instead of "thermal hull",  "load gaper", etc)
 
 TBD: Thoroughly analyze Homestuck texts for more evidence
 

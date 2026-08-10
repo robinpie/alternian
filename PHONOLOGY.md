@@ -1,17 +1,16 @@
 Syllable structure: (C)(C)V(ː)(V)(C)(C)
 
-Rounding-based vowel harmony: no mixing rounded and unrounded vowels in a word. (/w/ is fine anywhere)
+Rounding-based vowel harmony: no mixing rounded and unrounded vowels in a word.
 
 ## Consonants
 
-| | Bilabial | Labiodental | Alveolar | Post-alveolar | Velar | Labial–velar | Glottal |
-|---|---|---|---|---|---|---|---|
-| **Plosive** | p | | t d | | k ɡ | | |
-| **Nasal** | m | | n | | | | |
-| **Trill** | | | r | | | | |
-| **Fricative** | | f v | s z | ʃ | | | h |
-| **Approximant** | | | | | | w | |
-| **Lateral approximant** | | | l | | | | |
+| | Bilabial | Labiodental | Alveolar | Post-alveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|
+| **Plosive** | p | | t d | | k ɡ | |
+| **Nasal** | m | | n | | | |
+| **Trill** | | | r | | | |
+| **Fricative** | | f v | s z | ʃ | | h |
+| **Lateral approximant** | | | l | | | |
 
 ## Vowels
 
