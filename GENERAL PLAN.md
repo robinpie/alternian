@@ -19,6 +19,7 @@ TBD: restructure this section once it is ironed out more
 
  - Alternian has rounding-based vowel harmony (1)
  - Alternian doesn't have /w/. (3)
+ - There is fixed word-initial stress. (4)
 
 ## Orthography
 
@@ -37,6 +38,8 @@ TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, o
 2. Alternian English demonstrates several what-are-likely-to-be calques from Alternian, e.g. *thinkpan*, *respiteblock*, *load gaper*, *ablution trap*, *one wheel device*, *husktop*. This is evidence that Alternian is modifier-before-head, and head-final in compounds. This would pair nicely with SOV word order and agglutinative, suffixing morphology, so we take that as the case. https://mspaintadventures.fandom.com/wiki/Troll_language
 
 3. Eridan doubles "w"s in English because Alternian doesn't have "w"s and Eridan is [hypercorrecting](https://en.wikipedia.org/wiki/Hypercorrection) given that he is an insecure-ass fancy aristocrat. (The aristocracy tends to speak hypercorrect English: "refrigerator", "toilet", etc instead of "thermal hull",  "load gaper", etc)
+
+4. Kanaya's Title Case is indicative of fixed word-initial stres. She's marking the phonological word because in Alternian every word boundary is audible and that has substrate influence on her English
 
 TBD: Thoroughly analyze Homestuck texts for more evidence
 
@@ -57,11 +60,7 @@ Working reconstruction: an abstract-noun / relationship-state suffix, tentativel
 
 **Typing quirks do not exist in Alternian**, but they do in Alternian English. This indicates that they are each troll's own idiosyncratic solutions to rendering tone, prosody, or features from Alternian in Alternian English. **They are not in themselves features of Alternian, but are excellent material to help reconstruction.** The real-world model is Arabizi. 
 
-For example, Terezi replacing specifically A/E/I may indicate Alternian vowel qualities English/Latin-ish orthography can't distinguish (e.g., pharyngealized or creaky-voiced vowels).
-
 Sollux quirk could indicate contrastive gemination in Alternian? Idk
-
-Eridan's quirk could mark a phoneme in the /w/~/v/ space preserved in his (seadweller/aristocratic?) dialect?
 
 Gamzee's AlTeRnAtInG cApS is prosodic, not segmental. Does Alternian have tone marking that he is trying to communicate in English?
 

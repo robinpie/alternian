@@ -2,6 +2,8 @@ Syllable structure: (C)(C)V(ː)(V)(C)(C)
 
 Rounding-based vowel harmony: no mixing rounded and unrounded vowels in a word.
 
+There is fixed word-initial stress.
+
 ## Consonants
 
 | | Bilabial | Labiodental | Alveolar | Post-alveolar | Velar | Glottal |
@@ -35,16 +37,16 @@ Rounding-based vowel harmony: no mixing rounded and unrounded vowels in a word.
 
 Example words:
 
-əˈraːdiə məˈɡiːdeɪ
+ˈəraːdiə ˈməɡiːdeɪ
 ˈtævreɪs ˈnaitræm
 ˈsɑtləks ˈkæptər
 ˈkaːrkæt ˈvæntəs
 ˈnɛpətə ˈtleɪɑn
-kəˈnaiə ˈmaːriəm
-tərezi ˈpaireɪp
+ˈkənaiə ˈmaːriəm
+ˈtərezi ˈpaireɪp
 ˈvrɪskə ˈsɜrːːːːkɛt
-ˈɡæmziː məˈkaːrə
-ˈɛrɪdæn æmˈpɑːrə
+ˈɡæmziː ˈməkaːrə
+ˈɛrɪdæn ˈæmpɑːrə
 ˈfɛvəri ˈpaiʃiz
 ˈɛkriəs ˈzaːhaːk
 ˈmɑreɪtl
