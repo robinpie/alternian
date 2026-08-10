@@ -46,7 +46,7 @@ tərezi ˈpaireɪp
 ˈɡæmziː məˈkaːrə
 ˈɛrɪdæn æmˈpɑːrə
 ˈfɛvəri ˈpaiʃiz
-ˈɛkwiəs ˈzaːhaːk
+ˈɛkriəs ˈzaːhaːk
 ˈmɑreɪtl
 ˈkɪzməsɪs
 ˈmætɛsprɪt
