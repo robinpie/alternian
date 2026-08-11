@@ -60,8 +60,4 @@ Working reconstruction: an abstract-noun / relationship-state suffix, tentativel
 
 **Typing quirks do not exist in Alternian**, but they do in Alternian English. This indicates that they are each troll's own idiosyncratic solutions to rendering tone, prosody, or features from Alternian in Alternian English. **They are not in themselves features of Alternian, but are excellent material to help reconstruction.** The real-world model is Arabizi. 
 
-Sollux quirk could indicate contrastive gemination in Alternian? Idk
-
-Gamzee's AlTeRnAtInG cApS is prosodic, not segmental. Does Alternian have tone marking that he is trying to communicate in English?
-
 Compare with real-world Arabizi and individual-user idiosyncrasies.
