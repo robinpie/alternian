@@ -54,7 +54,7 @@ Visible derivational morphology:
  - moirail → moirallegiance
  - matesprit → matespritship, auspistice → auspisticeship
  
-Working reconstruction: an abstract-noun / relationship-state suffix, tentatively -(is)itud or similar, meaning "the state/relationship of being X". The English forms are anglicized renderings of this suffix.
+Working reconstruction: an abstract-noun / relationship-state suffix, tentatively -(is)itude or similar, meaning "the state/relationship of being X". The English forms are anglicized renderings of this suffix.
 
 ## Typing quirks
 
