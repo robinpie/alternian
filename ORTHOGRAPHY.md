@@ -10,14 +10,15 @@ For ease of writing and display, the rest of this document is written using the 
 |---|---|
 | a | /a/ |
 | aa | /aː/ |
-| ae | æ |
+| ae | /æ/ |
+| ao | /ɒ/ |
 | b | /v/ |
 | c | /k/ |
 | d | /d/ |
 | e | /e/ |
 | ea | /ɛ/ |
 | eo | /ɔ/ |
-| eoo | /ɔː|
+| eoo | /ɔː/ |
 | f | /f/ |
 | g | /ɡ/ |
 | h | /h/ |
