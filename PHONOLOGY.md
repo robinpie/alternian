@@ -16,15 +16,14 @@ There is fixed word-initial stress.
 
 ## Vowels
 
-| | Front | Central | Back |
-|---|---|---|---|
-| **Close** | i, iː | | u |
-| **Near-close** | ɪ | | |
-| **Close-mid** | e | | o |
-| **Mid** | | ə | |
-| **Open-mid** | ɛ | ɜː | ɔ, ɔː |
-| **Near-open** | æ | | |
-| **Open** | a, aː | | ɒ |
+| | Front | Back |
+|---|---|---|
+| **Close** | i, iː | u |
+| **Near-close** | ɪ | |
+| **Close-mid** | e | o |
+| **Open-mid** | ɛ | ɔ, ɔː |
+| **Near-open** | æ | |
+| **Open** | a, aː | ɒ |
 
 ## Diphthongs / vowel sequences
 
