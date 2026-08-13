@@ -17,6 +17,7 @@ For ease of writing and display, the rest of this document is written using the 
 | e | /e/ |
 | ea | /ɛ/ |
 | eo | /ɔ/ |
+| eoo | /ɔː|
 | f | /f/ |
 | g | /g/ |
 | h | /h/ |
