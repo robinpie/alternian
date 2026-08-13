@@ -15,7 +15,7 @@ TBD: restructure this section once it is ironed out more
     
 ## Phonology
 
-[PHONOLOGY.md]
+[!PHONOLOGY.md]
 
  - Alternian has rounding-based vowel harmony (1)
  - Alternian doesn't have /w/. (3)
@@ -23,7 +23,7 @@ TBD: restructure this section once it is ironed out more
 
 ## Orthography
 
-[ORTHOGRAPHY.md]
+[!ORTHOGRAPHY.md]
 
 TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, or just a font for Latin script? The latter would be easier to type in but the former would be more faithful. Decide on this. Or just do both?
 
