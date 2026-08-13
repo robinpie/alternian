@@ -35,19 +35,19 @@ There is fixed word-initial stress.
 
 Example words:
 
-ˈəraːdiə ˈməɡiːdeɪ
+ˈaraːdia ˈmæɡiːdeɪ
 ˈtævreɪs ˈnaitræm
-ˈsɑtləks ˈkæptər
-ˈkaːrkæt ˈvæntəs
-ˈnɛpətə ˈtleɪɑn
-ˈkənaiə ˈmaːriəm
-ˈtərezi ˈpaireɪp
-ˈvrɪskə ˈsɜrːkɛt
-ˈɡæmziː ˈməkaːrə
-ˈɛrɪdæn ˈæmpɑːrə
-ˈfɛvəri ˈpaiʃiz
-ˈɛkriəs ˈzaːhaːk
-ˈmɑreɪtl
-ˈkɪzməsɪs
+ˈsatlɛks ˈkæptɛr
+ˈkaːrkæt ˈvæntɛs
+ˈnɛpɛta ˈtleɪan
+ˈkanaia ˈmaːriam
+ˈtɛrezi ˈpaireɪp
+ˈvrɪska ˈsɛrkɛt
+ˈɡæmziː ˈmakaːra
+ˈɛrɪdæn ˈæmpaːra
+ˈfɛvɛri ˈpaiʃiz
+ˈɛkrias ˈzaːhaːk
+ˈmareɪtl
+ˈkɪzmɛsɪs
 ˈmætɛsprɪt
 ˈaːspɪstɪs
