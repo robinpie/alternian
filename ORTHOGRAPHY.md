@@ -43,7 +43,7 @@ For ease of writing and display, the rest of this document is written using the 
 | y | /ɪ/ |
 | z | /z/ |
 
-Diphthongs (ai, ey, ou) are writable by composition.
+Diphthongs (ai, ey, ou, ia) are writable by composition.
 
 > [!NOTE]
 > In-universe: Alternian features silent letters and redundant letters because of archaisms from a proto-Alternian.
