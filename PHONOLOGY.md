@@ -1,4 +1,4 @@
-Syllable structure: (C)(C)V(ː)(V)(C(ː)(C)
+Syllable structure: (C)(C)V(ː)(V)(C(ː))(C)
 
 Rounding-based vowel harmony: no mixing rounded and unrounded vowels in a word.
 
