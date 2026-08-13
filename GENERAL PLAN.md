@@ -23,9 +23,7 @@ TBD: restructure this section once it is ironed out more
 
 ## Orthography
 
-The (new, Hiveswap-style) Alternian Alphabet, but not just as the English cipher it's used as in canon. The *romanization* is the same, however:
-
-![romanization chart](AlternianAlphabetComplete.webp)
+[ORTHOGRAPHY.md]
 
 TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, or just a font for Latin script? The latter would be easier to type in but the former would be more faithful. Decide on this. Or just do both?
 
