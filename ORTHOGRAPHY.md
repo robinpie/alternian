@@ -41,8 +41,8 @@ For ease of writing and display, the rest of this document is written using the 
 | y | /ɪ/ |
 | z | /z/ |
 
-> [!In-universe]
-> Alternian features silent letters and redundant letters because of archaisms from a proto-Alternian.
+> [!NOTE]
+> In-universe: Alternian features silent letters and redundant letters because of archaisms from a proto-Alternian.
 
-> [!Out-of-universe]
-> Alternian's silent and redundant letters may be used, for example, to more closely preserve spellings or other vibes from other languages when coining Alternian words.
+> [!TIP]
+> Out-of-universe: Alternian's silent and redundant letters may be used, for example, to more closely preserve spellings or other vibes from other languages when coining Alternian words.
