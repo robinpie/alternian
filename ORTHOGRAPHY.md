@@ -19,7 +19,7 @@ For ease of writing and display, the rest of this document is written using the 
 | eo | /ɔ/ |
 | eoo | /ɔː|
 | f | /f/ |
-| g | /g/ |
+| g | /ɡ/ |
 | h | /h/ |
 | i | /i/ |
 | ii | /iː/ |
