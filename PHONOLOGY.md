@@ -32,7 +32,6 @@ There is fixed word-initial stress.
 | ai | closing, fronting |
 | eɪ | closing, fronting |
 | ou | closing, backing |
-| iə | centering |
 
 Example words:
 
