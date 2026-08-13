@@ -41,7 +41,9 @@ TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, o
 
 TBD: Thoroughly analyze Homestuck texts for more evidence
 
-## Direct borrowings
+## Unstructured evidence (Under construction section)
+
+### Direct borrowings
 
 Alternian English has some presumed direct borrowings from Alternian: e.g. *matesprit*, *kismesis*, *moirail*, *auspistice*, *lusus*, *kismesissitude*, *moirallegiance*. I think we can also assume that troll proper names (Karkat, Gamzee, etc) are direct borrowings from Alternian.
 
@@ -54,7 +56,7 @@ Visible derivational morphology:
  
 Working reconstruction: an abstract-noun / relationship-state suffix, tentatively -(is)itude or similar, meaning "the state/relationship of being X". The English forms are anglicized renderings of this suffix.
 
-## Typing quirks
+### Typing quirks
 
 **Typing quirks do not exist in Alternian**, but they do in Alternian English. This indicates that they are each troll's own idiosyncratic solutions to rendering tone, prosody, or features from Alternian in Alternian English. **They are not in themselves features of Alternian, but are excellent material to help reconstruction.** The real-world model is Arabizi. 
 
