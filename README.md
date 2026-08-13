@@ -25,7 +25,7 @@ TBD: restructure this section once it is ironed out more
 
 [ORTHOGRAPHY.md](ORTHOGRAPHY.md)
 
-TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, or just a font for Latin script? The latter would be easier to type in but the former would be more faithful. Decide on this. Or just do both?
+TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, or just a font for Latin script? The latter would be easier to type in but the former would be more faithful. Decide on this. Or just do both? Also I should do an UCSUR submission
 
 # Evidence
 
