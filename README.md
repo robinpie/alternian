@@ -43,7 +43,7 @@ TBD: Thoroughly analyze Homestuck texts for more evidence
 
 ## Direct borrowings
 
-Alternian English has some direct borrowings from Alternian: e.g. *matesprit*, *kismesis*, *moirail*, *auspistice*, *lusus*, *kismesissitude*, *moirallegiance*. I think we can also assume that troll proper names (Karkat, Gamzee, etc) are direct borrowings from Alternian.
+Alternian English has some presumed direct borrowings from Alternian: e.g. *matesprit*, *kismesis*, *moirail*, *auspistice*, *lusus*, *kismesissitude*, *moirallegiance*. I think we can also assume that troll proper names (Karkat, Gamzee, etc) are direct borrowings from Alternian.
 
 If these are culturally untranslatable concepts, they probably were borrowed with minimal changes, meaning that these preserve Alternian phonology and morphology.
 
