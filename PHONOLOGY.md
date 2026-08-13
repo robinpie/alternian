@@ -10,7 +10,7 @@ There is fixed word-initial stress.
 |---|---|---|---|---|---|---|
 | **Plosive** | p | | t d | | k ɡ | |
 | **Nasal** | m | | n | | | |
-| **Trill** | | | r | | | |
+| **Trill** | | | r, rː | | | |
 | **Fricative** | | f v | s z | ʃ | | h |
 | **Lateral approximant** | | | l | | | |
 
