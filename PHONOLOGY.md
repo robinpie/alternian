@@ -44,7 +44,7 @@ Example words:
 ˈnɛpətə ˈtleɪɑn
 ˈkənaiə ˈmaːriəm
 ˈtərezi ˈpaireɪp
-ˈvrɪskə ˈsɜrːːːːkɛt
+ˈvrɪskə ˈsɜrːkɛt
 ˈɡæmziː ˈməkaːrə
 ˈɛrɪdæn ˈæmpɑːrə
 ˈfɛvəri ˈpaiʃiz
