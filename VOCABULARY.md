@@ -11,8 +11,8 @@
 | aaspystys | noun | one who is your auspistice | Homestuck-coined English *auspistice* ||
 | peastys| verb           | talk                              | Latin *pestis*          | Compare English *pester*
 
-[!NOTE]
-All verbs are conjugated, but they are shown here as their root.
+> [!NOTE]
+> All verbs are conjugated, but they are shown here as their root.
 
 # Notable proper names
 
