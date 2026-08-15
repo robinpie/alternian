@@ -14,7 +14,7 @@ TBD: restructure this section once it is ironed out more
     - Alternian prefers to coin vocabulary by German-esque native compounding rather than borrowing, which makes sense for a xenophobic empire that would not stoop to loaning words from conquered species (2)
 - All verbs are conjugated with tenses:
 
-|    —    | Tense |
+|         | Tense |
 | ------- | ----- |
 | Present | *-a*  |
 | Past    | *-i*  |
