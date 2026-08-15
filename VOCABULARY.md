@@ -9,7 +9,7 @@
 | kyzmeasys | noun | one who is your kismesis | Homestuck-coined English *kismesis* ||
 | maeteaspryt | noun | one who is your matesprit | Homestuck-coined English *matesprit* ||
 | aaspystys | noun | one who is your auspistice | Homestuck-coined English *auspistice* ||
-| peastys| verb           | talk                              | Latin *pestis*          | Compare English *pester*
+| peastys| verb           | talk, speak, communicate, say, converse                              | Latin *pestis*          | Compare English *pester*
 
 > [!NOTE]
 > All verbs are conjugated, but they are shown here as their root.
