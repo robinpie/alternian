@@ -33,22 +33,3 @@ There is fixed word-initial stress.
 | eɪ | closing, fronting |
 | ou | closing, backing |
 | ia | opening, rising |
-
-Example words:
-
-ˈaraːdia ˈmæɡiːdeɪ
-ˈtævreɪs ˈnaitræm
-ˈsatlɛks ˈkæptɛr
-ˈkaːrkæt ˈvæntɛs
-ˈnɛpɛta ˈtleɪan
-ˈkanaia ˈmaːriam
-ˈtɛrezi ˈpaireɪp
-ˈvrɪska ˈsɛrkɛt
-ˈɡæmziː ˈmakaːra
-ˈɛrɪdæn ˈæmpaːra
-ˈfɛvɛri ˈpaiʃiz
-ˈɛkrias ˈzaːhaːk
-ˈmareɪtl
-ˈkɪzmɛsɪs
-ˈmætɛsprɪt
-ˈaːspɪstɪs
