@@ -70,3 +70,7 @@ BIG MAYBE: Working reconstruction: an abstract-noun / relationship-state suffix,
 **Typing quirks do not exist in Alternian**, but they do in Alternian English. This indicates that they are each troll's own idiosyncratic solutions to rendering tone, prosody, or features from Alternian in Alternian English. **They are not in themselves features of Alternian, but are excellent material to help reconstruction.** The real-world model is Arabizi. 
 
 Compare with real-world Arabizi and individual-user idiosyncrasies.
+
+### Miscellaneous
+
+https://mspaintadventures.fandom.com/wiki/Troll_language
