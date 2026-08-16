@@ -16,14 +16,16 @@ There is fixed word-initial stress.
 
 ## Vowels
 
+(bold = rounded)
+
 | | Front | Back |
 |---|---|---|
-| **Close** | i, iː | u |
+| **Close** | i, iː | **u** |
 | **Near-close** | ɪ | |
-| **Close-mid** | e | o |
-| **Open-mid** | ɛ | ɔ, ɔː |
+| **Close-mid** | e | **o** |
+| **Open-mid** | ɛ | **ɔ**, **ɔː** |
 | **Near-open** | æ | |
-| **Open** | a, aː | ɒ |
+| **Open** | a, aː | **ɒ** |
 
 ## Diphthongs / vowel sequences
 
@@ -31,5 +33,5 @@ There is fixed word-initial stress.
 |---|---|
 | ai | closing, fronting |
 | eɪ | closing, fronting |
-| ou | closing, backing |
+| **ou** | closing, backing |
 | ia | opening, rising |
