@@ -34,7 +34,12 @@ TBD: restructure this section once it is ironed out more
 
 [ORTHOGRAPHY.md](ORTHOGRAPHY.md)
 
-TBD: I (Robin) can create a font for this that uses Unicode Private Use Areas, or just a font for Latin script? The latter would be easier to type in but the former would be more faithful. Decide on this. Or just do both? Also I should do an UCSUR submission
+## Font
+
+[Alternian-Regular.otf](Alternian-Regular.otf), [.ttf](Alternian-Regular.ttf)
+Does both mappings at once: the Latin letters and a Private Use Area block at U+E000–U+E02C.
+
+TBD: UCSUR submission
 
 # Evidence
 
