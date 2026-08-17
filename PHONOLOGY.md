@@ -29,9 +29,13 @@ There is fixed word-initial stress.
 
 ## Diphthongs / vowel sequences
 
-| Symbol | Type |
-|---|---|
-| ai | closing, fronting |
-| eɪ | closing, fronting |
-| **ou** | closing, backing |
-| ia | opening, rising |
+(bold = rounded)
+
+These pair under rounding harmony exactly as the monophthongs do, so a word draws
+its vowel sequences from one column only.
+
+| Unrounded | Type | Rounded | Type |
+|---|---|---|---|
+| ai | closing, fronting | **ɒu** | closing, backing |
+| eɪ | closing, fronting | **ou** | closing, backing |
+| ia | opening, rising | **uɒ** | opening, rising |
