@@ -1,6 +1,6 @@
 # Words
 
-| Word   | Part of speech | Meaning                           | Real-world etymology    | Notes                                                                                                                                          |
+| Word   | Part of speech | Meaning                           | Real-world etymology    | Notes           |
 | ------ | -------------- | --------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | ti     | pro-sentence   | Yes (response to binary question) | English letter-name *t* | http://www.catb.org/jargon/html/p-convention.html                                                                                              |
 | nyl    | pro-sentence   | No (response to binary question)  | English *nil*           | http://www.catb.org/jargon/html/N/NIL.html                                                                                                     |
@@ -10,6 +10,7 @@
 | maeteaspryt | noun | one who is your matesprit | Homestuck-coined English *matesprit* ||
 | aaspystys | noun | one who is your auspistice | Homestuck-coined English *auspistice* ||
 | peastys| verb           | talk, speak, communicate, say, converse                              | Latin *pestis*          | Compare English *pester*
+| epiki | modifier | positive quality (good, pleasant, epic, cool, amazing) | Toki Pona *epiku* ||
 
 > [!NOTE]
 > All verbs are conjugated, but they are shown here as their root.
