@@ -8,10 +8,9 @@ TBD: restructure this section once it is ironed out more
 
 ## Structure
 
-- Alternian is modifier-before-head, and head-final in compounds.
 - SOV word order
-- Agglutinative, suffixing morphology
-    - Alternian prefers to coin vocabulary by German-esque native compounding rather than borrowing, which makes sense for a xenophobic empire that would not stoop to loaning words from conquered species (2)
+- Alternian is modifier-before-head, and head-final in compounds.
+- Modifiers and heads are connected with *-*.
 - All verbs are conjugated with tenses:
 
 |         | Tense |
@@ -21,6 +20,8 @@ TBD: restructure this section once it is ironed out more
 | Future  | *-o*  |
 
 - An ordinary sentence is converted into a binary question by suffixing the verb with *-p*.
+- Agglutinative, suffixing morphology
+    - Alternian prefers to coin vocabulary by German-esque native compounding rather than borrowing, which makes sense for a xenophobic empire that would not stoop to loaning words from conquered species (2)
     
 ## Phonology
 
