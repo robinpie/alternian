@@ -1,24 +1,24 @@
 word,part of speech,meaning,etymology,notes
-ti,pro-sentence,Yes (response to binary question),English letter-name *t*,http://www.catb.org/jargon/html/p-convention.html
-nyl,pro-sentence,No (response to binary question),English *nil*,http://www.catb.org/jargon/html/N/NIL.html
-jaohudao,head,"friend, enemy",Biblical Hebrew *יהודה*,"[It should be noted that in troll language, the word for friend is exactly the same as the word for enemy.](https://www.homestuck.com/004120)"
-mareytl,head,one who is your moirail,Homestuck-coined English *moirail*,
-kyzmeasys,head,one who is your kismesis,Homestuck-coined English *kismesis*,
-maeteaspryt,head,one who is your matesprit,Homestuck-coined English *matesprit*,
 aaspystys,head,one who is your auspistice,Homestuck-coined English *auspistice*,
-peastys,verb,"talk, speak, communicate, say, converse",Latin *pestis*,Compare English *pester*
-epiki,modifier,"positive quality (good, pleasant, epic, cool, amazing)",Toki Pona *epiku*,
 ami,head,animal,Batelu *ami*,inspired by canon *-beast*
-diavele,modifier,"hostile, generally unpleasant",Italian *diavolo*,inspired by canon *-fiend*. i changed the part of speech because it’s more convenient that way
-kaandyleymete,head,insect,translingual *Condylomata*,inspired by canon *-bug*
-nebtxer,head,avian,Hindi *नभचर*,inspired by canon *-avian*
-xyq,head,"avian, domestic or dim",Vötgil *Cik*,inspired by canon *-fowl*
 bitxite,head,"small animal, dismissive",Spanish *bichito*,inspired by canon *-critter*
-haxaax,head,pest animal,Arabic *خشاش*,inspired by canon *-vermin*
-larvat,head,"generally: food. specifically: children, larva, or food derived from such",Volapük *larvat*,inspired by canon *-grub*
-mangxen,head,room,Japanese *マンション*,inspired by canon *-block*
-piiflycnapi,head,"building, structure",Icelandic *býflugnabú*,inspired by canon *-hive*
-caamai,modifier,vertical,Shan *ၶႃႊမႆႉ*,inspired by canon *-stem*
-no,particle,"regroups modifiers; that is, introduces a postmodifying multi-word phrase",Japanese *の*,like Toki Pona *pi*
-multaou,modifier,"many (especially in the sense of “aggregate of” (cluster, pile))",Esperanto *multaj*,inspired by canon *-cluster*
 dxeontro,head,"device, machine",Bengali *যন্ত্র*,inspired by canon *-device*
+haxaax,head,pest animal,Arabic *خشاش*,inspired by canon *-vermin*
+jaohudao,head,"friend, enemy",Biblical Hebrew *יהודה*,"[It should be noted that in troll language, the word for friend is exactly the same as the word for enemy.](https://www.homestuck.com/004120)"
+kaandyleymete,head,insect,translingual *Condylomata*,inspired by canon *-bug*
+kyzmeasys,head,one who is your kismesis,Homestuck-coined English *kismesis*,
+larvat,head,"generally: food. specifically: children, larva, or food derived from such",Volapük *larvat*,inspired by canon *-grub*
+maeteaspryt,head,one who is your matesprit,Homestuck-coined English *matesprit*,
+mangxen,head,room,Japanese *マンション*,inspired by canon *-block*
+mareytl,head,one who is your moirail,Homestuck-coined English *moirail*,
+nebtxer,head,avian,Hindi *नभचर*,inspired by canon *-avian*
+piiflycnapi,head,"building, structure",Icelandic *býflugnabú*,inspired by canon *-hive*
+xyq,head,"avian, domestic or dim",Vötgil *Cik*,inspired by canon *-fowl*
+caamai,modifier,vertical,Shan *ၶႃႊမႆႉ*,inspired by canon *-stem*
+diavele,modifier,"hostile, generally unpleasant",Italian *diavolo*,inspired by canon *-fiend*. i changed the part of speech because it’s more convenient that way
+epiki,modifier,"positive quality (good, pleasant, epic, cool, amazing)",Toki Pona *epiku*,
+multaou,modifier,"many (especially in the sense of “aggregate of” (cluster, pile))",Esperanto *multaj*,inspired by canon *-cluster*
+no,particle,"regroups modifiers; that is, introduces a postmodifying multi-word phrase",Japanese *の*,like Toki Pona *pi*
+nyl,pro-sentence,No (response to binary question),English *nil*,http://www.catb.org/jargon/html/N/NIL.html
+ti,pro-sentence,Yes (response to binary question),English letter-name *t*,http://www.catb.org/jargon/html/p-convention.html
+peastys,verb,"talk, speak, communicate, say, converse",Latin *pestis*,Compare English *pester*
